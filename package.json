@@ -1,0 +1,16 @@
+{
+  "name": "apify-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^0.21.3",
+    "del": "^5.1.0"
+  }
+}
